@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anna Souz</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anna-souz&label=Profile%20views&color=0e75b6&style=flat" alt="anna-souz" /> </p>
+<p align="center"> <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" alt="anna-souz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anna-souz" alt="anna-souz" /></a> </p>
 
 - 🌱 I’m currently learning **Mern and Devops**
 
@@ -39,3 +41,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anna-souz&show_icons=true&locale=en" alt="anna-souz" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anna-souz&" alt="anna-souz" /></p>
